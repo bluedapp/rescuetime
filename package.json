@@ -1,0 +1,27 @@
+{
+  "name": "rescuetime",
+  "version": "0.1.0",
+  "description": "time monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluedapp/rescuetime.git"
+  },
+  "keywords": [
+    "time",
+    "monitory"
+  ],
+  "author": "mdemo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluedapp/rescuetime/issues"
+  },
+  "homepage": "https://github.com/bluedapp/rescuetime#readme",
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "humanize-number": "0.0.2"
+  }
+}
